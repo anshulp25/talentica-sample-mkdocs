@@ -1,0 +1,5 @@
+site_name: Talentica Sample Project
+pages:
+  - Setup : index.md
+  - About : about.md
+theme: readthedocs
